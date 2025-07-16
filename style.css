@@ -63,7 +63,7 @@ body {
   background-color: #09101A;
  }
 .main-name {
-  background: linear-gradient(to right, red, orange, green, blue, indigo, violet);
+  background: linear-gradient(to right, red, rgb(165, 131, 67), green, rgb(35, 131, 78), rgb(167, 54, 84), rgb(166, 147, 95));
   -webkit-background-clip: text;
   color: transparent;
   font-weight: bold;
