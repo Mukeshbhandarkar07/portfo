@@ -12,9 +12,9 @@ body {
   scroll-behavior: smooth;
 }
 
-.section-bg {
+/* .section-bg {
   background-color: #09101A;
-}
+} */
 
 .nav-bg {
   background-color: #0d1724;
@@ -39,7 +39,29 @@ body {
   background-color: #8d949f;
   border-radius: 10px;
 }
-
+#section1{
+  background-color: #09101A;
+}
+ #section2
+ {
+  background-color: black;
+ }
+ #section3
+ {
+  background-color:black;
+ }
+ #section4
+ {
+  background-color: #0c0e12;
+ }
+ #section5
+ {
+  background-color: #15171b;
+ }
+ #section6
+ {
+  background-color: #09101A;
+ }
 .main-name {
   background: linear-gradient(to right, red, orange, green, blue, indigo, violet);
   -webkit-background-clip: text;
